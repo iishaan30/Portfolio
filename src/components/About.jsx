@@ -14,16 +14,31 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          
-As a dedicated Computer Science Engineering student, I bring a strong foundation in both theoretical concepts and practical applications, with a specialized focus on front-end development. My academic journey has equipped me with a robust skill set in programming languages such as HTML, CSS, and JavaScript, enabling me to create visually appealing and user-friendly interfaces. I am adept at translating design concepts into responsive web applications, ensuring a seamless and engaging user experience. My commitment to staying abreast of the latest industry trends allows me to leverage cutting-edge technologies in the rapidly evolving field of front-end development.
+        <p className="text-xl mt-20 pb-4">
+        As a devoted Computer Science Engineering student, 
+        I possess a solid foundation in theoretical concepts and practical applications, 
+        specializing in front-end development. My academic journey has provided me with 
+        a robust skill set in HTML, CSS, and JavaScript, allowing me to craft visually appealing, user-friendly interfaces. 
         </p>
 
         <br />
 
         <p className="text-xl">
-        Driven by a passion for the intersection of technology and innovation, I have immersed myself in the realms of Artificial Intelligence, Machine Learning, and Data Analytics. Beyond my academic pursuits, I have engaged in hands-on projects that showcase my ability to harness the power of AI and ML algorithms to derive meaningful insights from data. This enthusiasm extends beyond the classroom, as I actively seek opportunities to contribute to projects that push the boundaries of what is possible in the realms of AI, ML, and data analytics. With a solid foundation in front-end development and a fervent interest in emerging technologies, I am poised to make a meaningful impact in the dynamic landscape of computer science and technology.
+        Proficient in translating design concepts into responsive web applications, 
+        I ensure a seamless, engaging user experience. My commitment to staying 
+        current with industry trends enables me to leverage cutting-edge technologies 
+        in the rapidly evolving field of front-end development.
         </p>
+
+        <br />
+
+        <p className="text-xl">
+        Driven by a passion for the intersection of technology
+        and innovation, I have immersed myself in the realms of Artificial Intelligence, Machine Learning,
+        and Data Analytics.
+        </p>
+
+
       </div>
     </div>
   );
