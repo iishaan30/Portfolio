@@ -15,23 +15,14 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          
+As a dedicated Computer Science Engineering student, I bring a strong foundation in both theoretical concepts and practical applications, with a specialized focus on front-end development. My academic journey has equipped me with a robust skill set in programming languages such as HTML, CSS, and JavaScript, enabling me to create visually appealing and user-friendly interfaces. I am adept at translating design concepts into responsive web applications, ensuring a seamless and engaging user experience. My commitment to staying abreast of the latest industry trends allows me to leverage cutting-edge technologies in the rapidly evolving field of front-end development.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Driven by a passion for the intersection of technology and innovation, I have immersed myself in the realms of Artificial Intelligence, Machine Learning, and Data Analytics. Beyond my academic pursuits, I have engaged in hands-on projects that showcase my ability to harness the power of AI and ML algorithms to derive meaningful insights from data. This enthusiasm extends beyond the classroom, as I actively seek opportunities to contribute to projects that push the boundaries of what is possible in the realms of AI, ML, and data analytics. With a solid foundation in front-end development and a fervent interest in emerging technologies, I am poised to make a meaningful impact in the dynamic landscape of computer science and technology.
         </p>
       </div>
     </div>
