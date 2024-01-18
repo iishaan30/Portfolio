@@ -24,17 +24,17 @@ const SocialLinks = () => {
       ),
       href: "https://github.com/iishaan30",
     },
+    // {
+    //   id: 3,
+    //   child: (
+    //     <>
+    //       Mail <HiOutlineMail size={30} />
+    //     </>
+    //   ),
+    //   href: "mailto:iishaanjha30@gmail.com",
+    // },
     {
       id: 3,
-      child: (
-        <>
-          Mail <HiOutlineMail size={30} />
-        </>
-      ),
-      href: "mailto:iishaanjha30@gmail.com",
-    },
-    {
-      id: 4,
       child: (
         <>
           Resume <BsFillPersonLinesFill size={30} />

@@ -1,5 +1,4 @@
 import React from "react";
-
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
@@ -44,7 +43,7 @@ const Experience = () => {
       id: 7,
       src: github,
       title: "GitHub",
-      style: "dark:bg-gray-800"
+      style: "dark:bg-gray-800 dark:rounded-3xl"
       
     },
     {
@@ -58,7 +57,7 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full md:h-screen dark:bg-gradient-to-b dark:from-gray-50 dark:to-grey-50 dark:text-black "
+      className="bg-gradient-to-b from-cyan-900 via-blue-800 to-indigo-900 w-full md:h-screen dark:bg-gradient-to-b dark:from-gray-50 dark:to-grey-50 dark:text-black "
     >
       <div className="max-w-screen-lg mx-auto flex flex-col p-3 justify-center w-full h-full text-white dark:text-black">
         <div>
